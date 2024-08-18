@@ -1,0 +1,5 @@
+
+Vou criar um arquivo de texto com o conteúdo extraído da imagem. Um momento, por favor.
+O que é HTML?
+É uma linguagem de marcação de texto utilizada para publicação de textos na WWW (World Wide Web). Com essa linguagem é possível apresentar informações na Internet através de páginas que preservam a estrutura do texto nas diferentes plataformas em que é descarregado.
+Um documento em HTML nada mais é do que um arquivo (tags) que contém os elementos com descrições contendo texto simples, marcado com. Quando o usuário acessa uma página, o arquivo (texto e descrições) é interpretado pelo navegador e exibido pelo mesmo. O Browser lê o documento e lê pelo sistema operacional para operar os dispositivos e exibe o texto. O formato na tela do computador.
